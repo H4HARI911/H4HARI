@@ -2,7 +2,7 @@
 <br>
 <br>
 <br>
-<img src="path/to/your/image.jpg" alt="img1">
+<img src="" alt="img1">
 <br>
 <br>
 <br>

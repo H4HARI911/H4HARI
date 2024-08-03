@@ -2,7 +2,7 @@
 <br>
 <br>
 <br>
-<img src="" alt="img1">
+<img src="img bike t.07.45 AM(1).jpeg" alt="img1">
 <br>
 <br>
 <br>
@@ -10,7 +10,7 @@
 <br>
 <br>
 <br>
-<img src="path/to/your/image.jpg" alt="2image">
+<img src="" alt="2image">
 <br>
 <br>
 <br>
